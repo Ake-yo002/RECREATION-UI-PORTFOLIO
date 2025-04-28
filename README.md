@@ -1,6 +1,6 @@
 # Portfolio Website - PLP Web Development Assignment
 
-LIVE DEMO:
+#LIVE DEMO: https://nicoleui.netlify.app/
 
 ## Project Description
 This is a responsive portfolio website recreated as part of the Power Learn Project (February 2025 - Cohort VII) assignment. The project demonstrates proficiency in HTML and CSS, implementing modern web design principles.
